@@ -58,8 +58,9 @@
       "category": "抱食主菜",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/wellington.png",
       "price": 3390,
+      "main": "菲力牛排、義大利黑松露、西班牙生火腿、蘑菇、酥皮",
       "description": "將菲力牛排外側大火煎上色後，包上一層自製松露蘑菇泥，再包一層生火腿後，用酥皮包裹並刷勻蛋黃液，入烤箱烤製。成品將其切片，最後淋上熬製特製牛骨醬汁，彷彿與威靈頓公爵享受滑鐵盧戰役後的勝利。",
-      "link": "#",
+      "quantity": 1,
       "userId": 1
     },
     {
@@ -68,8 +69,9 @@
       "category": "抱食主菜",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/rib-eye-steak.png",
       "price": 1190,
+      "main": "肋眼牛排",
       "description": "特選美國特級冷藏牛排，講究美國經典煎法，在熾熱的鑄鐵鍋上煎烤出外脆內嫩的質地，再將牛油澆在專用牛排瓷盤，撲鼻而來的油香你還能忍得住嗎？",
-      "link": "./product-ribeye-steak.html",
+      "quantity": 1,
       "userId": 1
     },
     {
@@ -78,8 +80,9 @@
       "category": "抱食主菜",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/new_york_steak.png",
       "price": 1190,
+      "main": "紐約牛排",
       "description": "特選美國特級冷藏牛排，講究美國經典煎法，在熾熱的鑄鐵鍋上煎烤出外脆內嫩的質地，再將牛油澆在專用牛排瓷盤，撲鼻而來的油香你還能忍得住嗎？",
-      "link": "#",
+      "quantity": 1,
       "userId": 1
     },
     {
@@ -88,8 +91,9 @@
       "category": "抱食主菜",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/house-plate.png",
       "price": 1090,
+      "main": "煙燻豬腳、煙燻火腿、四種香腸、德式麵包、酸菜酸黃瓜、21吋木盤",
       "description": "特選煙燻豬腳、四種不同德式香腸、煙燻火腿切片擺滿21吋特大木盤，其盛景怎能不令你垂涎三尺呢？",
-      "link": "#",
+      "quantity": 1,
       "userId": 1
     },
     {
@@ -98,8 +102,9 @@
       "category": "抱食主菜",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/seafood_plate.png",
       "price": 1090,
+      "main": "酥炸生態鮮蝦、廣島牡蠣、金鱸魚菲力",
       "description": "將嚴選虎蝦、生食級牡蠣、金鱸魚憶起裹入溫潤酒器香的麵衣，二次炸至黃金酥脆的外表，搭配著三種不同醬料，享受海洋盛大宴會。",
-      "link": "#",
+      "quantity": 1,
       "userId": 1
     },
     {
@@ -108,8 +113,9 @@
       "category": "抱食主菜",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/salmon_pie.png",
       "price": 990,
-      "description": "將炒制好的紅黃椒、菠菜、挪威級鮭魚、莫札瑞拉起司一層一層鋪好，最後蓋上酥皮刷雲蛋黃液，入烤箱烤製。成品切開來的瞬間，交雜渾潤的鮭魚香氣引人大快朵頤。",
-      "link": "#",
+      "main": "挪威鮭魚、馬鈴薯泥、莫札瑞拉起司、時蔬、醃製甜椒",
+      "description": "將炒制好的醃製甜椒、時蔬、挪威級鮭魚、莫札瑞拉起司一層一層鋪好，最後蓋上酥皮刷雲蛋黃液，入烤箱烤製。成品切開來的瞬間，交雜渾潤的鮭魚香氣引人大快朵頤。",
+      "quantity": 1,
       "userId": 1
     },
     {
@@ -118,8 +124,9 @@
       "category": "前菜",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/chicken_liver.png",
       "price": 350,
+      "main": "雞肝醬、果乾、綜莓果醬、軟法麵包、餅乾",
       "description": "將新鮮雞肝外層炙烤後，與波特酒大火燉出香氣，最後奶油均質出柔順的膏狀。塗抹在軟法麵包&果醬上為絕佳的開胃菜",
-      "link": "#",
+      "quantity": 1,
       "userId": 1
     },
     {
@@ -128,8 +135,9 @@
       "category": "配菜",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/spinach.png",
       "price": 190,
+      "main": "菠菜、鮮奶油、奶油、莫札瑞拉起司",
       "description": "將新鮮菠菜與鮮奶油下入煎盤燉熬，最後撒上帕瑪森起司，為絕佳的牛排配菜",
-      "link": "#",
+      "quantity": 1,
       "userId": 1
     },
     {
@@ -138,8 +146,9 @@
       "category": "配菜",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/mushroom.png",
       "price": 250,
+      "main": "蘑菇、白酒",
       "description": "將蘑菇大火與白酒煎出香氣，為絕佳的牛排配菜",
-      "link": "#",
+      "quantity": 1,
       "userId": 1
     },
     {
@@ -148,8 +157,9 @@
       "category": "甜點",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/basque.png",
       "price": 120,
+      "main": "乳酪起司、鮮奶油、雞蛋",
       "description": "擁有不規則外皮的巴斯克乳酪蛋糕，獨特的焦香風味搭配冰涼後的濃郁乳酪，令人愛不釋手！",
-      "link": "#",
+      "quantity": 1,
       "userId": 1
     },
     {
@@ -158,8 +168,9 @@
       "category": "甜點",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/tiramisu.png",
       "price": 120,
+      "main": "乳酪起司、可可粉、咖啡酒液、手指餅乾",
       "description": "由浸泡咖啡蘭姆酒液的手指餅乾，加上一層馬斯卡彭起司、蛋黃及糖融合而成的乳酪起司醬，然後在蛋糕表面灑上一層可可粉而成，口感細膩飽滿，為最後餐點畫上完美的結束。",
-      "link": "#",
+      "quantity": 1,
       "userId": 1
     },
     {
@@ -168,8 +179,9 @@
       "category": "甜點",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/canele.png",
       "price": 90,
+      "main": "牛奶、鮮奶油、奶油、香草莢",
       "description": "表層烤製硬脆又厚實的褐色焦糖外殼，內部是半融化狀的蛋糕糊，含入中則散發著酒香和香草香氣，吃完後令人愛不釋手。",
-      "link": "#",
+      "quantity": 1,
       "userId": 1
     },
     {
@@ -178,8 +190,9 @@
       "category": "飲料&酒",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/coffee_ice.png",
       "price": 80,
+      "main": "哥倫比亞咖啡豆",
       "description": "磨製好的咖啡粉用咖啡機高壓下萃取出濃縮咖啡液下，與冰塊交融，保持著咖啡應有的香氣，又能享受著冰涼的口感，令人消暑。",
-      "link": "#",
+      "quantity": 1,
       "userId": 1
     },
     {
@@ -188,101 +201,77 @@
       "category": "飲料&酒",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/caffe-latte.png",
       "price": 180,
+      "main": "哥倫比亞咖啡豆、鮮奶",
       "description": "磨製好的咖啡粉用咖啡機高壓下萃取出濃縮咖啡液下，與細膩奶泡混合，點綴出奶泡花紋，入口溫潤又不帶咖啡苦澀。",
-      "link": "#",
+      "quantity": 1,
       "userId": 1
     }
   ],
-  "carts": [
-    {
-      "userId": "1",
-      "productId": "2",
-      "quantity": 1,
-      "id": 1
-    },
-    {
-      "userId": "1",
-      "productId": "8",
-      "quantity": 1,
-      "id": 1
-    },
-    {
-      "userId": "1",
-      "productId": "9",
-      "quantity": 1,
-      "id": 1
-    },
-    {
-      "userId": "1",
-      "productId": "13",
-      "quantity": 1,
-      "id": 1
-    }
-  ],
+  "carts": [],
   "orders": [
     {
-      "createdAt": 1669186792906,
-      "tableId": "2",
-      "items": [
+      "createdAt": 1671091682290,
+      "tableId": "1",
+      "products": [
         {
-          "productId": "2",
-          "qty": 1,
-          "title": "20oz美國紐約牛排",
-          "price": 1190,
-          "isDelivered": false
+          "productId": 2,
+          "quantity": 1,
+          "title": "20oz美國肋眼牛排",
+          "price": 1190
         },
         {
-          "productId": "8",
-          "qty": 1,
+          "productId": 4,
+          "quantity": 1,
+          "title": "家庭綜合拼盤",
+          "price": 1090
+        },
+        {
+          "productId": 8,
+          "quantity": 1,
           "title": "奶油燉菠菜",
-          "price": 190,
-          "isDelivered": false
+          "price": 190
         },
         {
-          "productId": "9",
-          "qty": 1,
+          "productId": 9,
+          "quantity": 1,
           "title": "白酒炒蘑菇",
-          "price": 250,
-          "isDelivered": false
+          "price": 250
         },
         {
-          "productId": "13",
-          "qty": 1,
+          "productId": 13,
+          "quantity": 2,
           "title": "美式咖啡(冰)",
-          "price": 80,
-          "isDelivered": false
+          "price": 80
         }
       ],
-      "payment": 1710,
-      "paymentTaxIncluded": 1881,
-      "allDelivered": false,
-      "userId": "1",
+      "payment": 2880,
+      "paymentTaxIncluded": 3168,
+      "hasAllDelivered": false,
+      "userId": "2",
       "id": 1
     },
     {
-      "createdAt": 1669251972641,
+      "createdAt": 1671091751856,
       "tableId": "3",
-      "items": [
+      "products": [
         {
-          "productId": "1",
-          "qty": 1,
+          "productId": 1,
+          "quantity": 1,
           "title": "20oz威靈頓牛排",
-          "price": 1190,
-          "isDelivered": false
+          "price": 3390
         },
         {
-          "productId": "8",
-          "qty": 1,
-          "title": "奶油燉菠菜",
-          "price": 190,
-          "isDelivered": false
+          "productId": 9,
+          "quantity": 2,
+          "title": "白酒炒蘑菇",
+          "price": 250
         }
       ],
-      "payment": 1380,
-      "paymentTaxIncluded": 1518,
-      "allDelivered": false,
-      "userId": "1",
-      "id": 1
+      "payment": 3890,
+      "paymentTaxIncluded": 4279,
+      "hasAllDelivered": false,
+      "userId": "2",
+      "id": 2
     }
   ]
 }
