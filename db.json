@@ -56,6 +56,7 @@
       "id": 1,
       "title": "20oz威靈頓牛排",
       "category": "抱食主菜",
+      "category_e": "Sharing Courses",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/wellington.png",
       "price": 3390,
       "main": "菲力牛排、義大利黑松露、西班牙生火腿、蘑菇、酥皮",
@@ -67,6 +68,7 @@
       "id": 2,
       "title": "20oz美國肋眼牛排",
       "category": "抱食主菜",
+      "category_e": "Sharing Courses",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/rib-eye-steak.png",
       "price": 1190,
       "main": "肋眼牛排",
@@ -78,6 +80,7 @@
       "id": 3,
       "title": "20oz美國紐約牛排",
       "category": "抱食主菜",
+      "category_e": "Sharing Courses",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/new_york_steak.png",
       "price": 1190,
       "main": "紐約牛排",
@@ -89,6 +92,7 @@
       "id": 4,
       "title": "家庭綜合拼盤",
       "category": "抱食主菜",
+      "category_e": "Sharing Courses",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/house-plate.png",
       "price": 1090,
       "main": "煙燻豬腳、煙燻火腿、四種香腸、德式麵包、酸菜酸黃瓜、21吋木盤",
@@ -100,6 +104,7 @@
       "id": 5,
       "title": "家庭海鮮拼盤",
       "category": "抱食主菜",
+      "category_e": "Sharing Courses",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/seafood_plate.png",
       "price": 1090,
       "main": "酥炸生態鮮蝦、廣島牡蠣、金鱸魚菲力",
@@ -111,6 +116,7 @@
       "id": 6,
       "title": "法式酥皮鮭魚派",
       "category": "抱食主菜",
+      "category_e": "Sharing Courses",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/salmon_pie.png",
       "price": 990,
       "main": "挪威鮭魚、馬鈴薯泥、莫札瑞拉起司、時蔬、醃製甜椒",
@@ -120,8 +126,21 @@
     },
     {
       "id": 7,
+      "title": "奶油嫩煎干貝",
+      "category": "主廚精選",
+      "category_e": "Delicate Courses",
+      "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/scallops.png",
+      "price": 690,
+      "main": "北海道生食及干貝、法式奶油醬",
+      "description": "將生食級干貝外層炙烤後，搭配特製奶油醬，同時吃到干貝的鮮甜與奶香繚繞在一起。",
+      "quantity": 1,
+      "userId": 1
+    },
+    {
+      "id": 8,
       "title": "奶油雞肝醬",
       "category": "前菜",
+      "category_e": "Appetizers",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/chicken_liver.png",
       "price": 350,
       "main": "雞肝醬、果乾、綜莓果醬、軟法麵包、餅乾",
@@ -130,9 +149,10 @@
       "userId": 1
     },
     {
-      "id": 8,
+      "id": 9,
       "title": "奶油燉菠菜",
       "category": "配菜",
+      "category_e": "Side Dishes",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/spinach.png",
       "price": 190,
       "main": "菠菜、鮮奶油、奶油、莫札瑞拉起司",
@@ -141,9 +161,10 @@
       "userId": 1
     },
     {
-      "id": 9,
+      "id": 10,
       "title": "白酒炒蘑菇",
       "category": "配菜",
+      "category_e": "Side Dishes",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/mushroom.png",
       "price": 250,
       "main": "蘑菇、白酒",
@@ -152,9 +173,10 @@
       "userId": 1
     },
     {
-      "id": 10,
+      "id": 11,
       "title": "巴斯克起司蛋糕",
       "category": "甜點",
+      "category_e": "Dessert",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/basque.png",
       "price": 120,
       "main": "乳酪起司、鮮奶油、雞蛋",
@@ -163,9 +185,10 @@
       "userId": 1
     },
     {
-      "id": 11,
+      "id": 12,
       "title": "提拉米蘇",
       "category": "甜點",
+      "category_e": "Dessert",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/tiramisu.png",
       "price": 120,
       "main": "乳酪起司、可可粉、咖啡酒液、手指餅乾",
@@ -174,9 +197,10 @@
       "userId": 1
     },
     {
-      "id": 12,
+      "id": 13,
       "title": "經典可麗露",
       "category": "甜點",
+      "category_e": "Dessert",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/canele.png",
       "price": 90,
       "main": "牛奶、鮮奶油、奶油、香草莢",
@@ -185,9 +209,10 @@
       "userId": 1
     },
     {
-      "id": 13,
+      "id": 14,
       "title": "美式咖啡(冰)",
-      "category": "飲料&酒",
+      "category": "飲料及酒",
+      "category_e": "Beverages",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/coffee_ice.png",
       "price": 80,
       "main": "哥倫比亞咖啡豆",
@@ -196,9 +221,10 @@
       "userId": 1
     },
     {
-      "id": 14,
+      "id": 15,
       "title": "拿鐵咖啡(熱)",
-      "category": "飲料&酒",
+      "category": "飲料及酒",
+      "category_e": "Beverages",
       "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/caffe-latte.png",
       "price": 180,
       "main": "哥倫比亞咖啡豆、鮮奶",
@@ -208,70 +234,5 @@
     }
   ],
   "carts": [],
-  "orders": [
-    {
-      "createdAt": 1671091682290,
-      "tableId": "1",
-      "products": [
-        {
-          "productId": 2,
-          "quantity": 1,
-          "title": "20oz美國肋眼牛排",
-          "price": 1190
-        },
-        {
-          "productId": 4,
-          "quantity": 1,
-          "title": "家庭綜合拼盤",
-          "price": 1090
-        },
-        {
-          "productId": 8,
-          "quantity": 1,
-          "title": "奶油燉菠菜",
-          "price": 190
-        },
-        {
-          "productId": 9,
-          "quantity": 1,
-          "title": "白酒炒蘑菇",
-          "price": 250
-        },
-        {
-          "productId": 13,
-          "quantity": 2,
-          "title": "美式咖啡(冰)",
-          "price": 80
-        }
-      ],
-      "payment": 2880,
-      "paymentTaxIncluded": 3168,
-      "hasAllDelivered": false,
-      "userId": "2",
-      "id": 1
-    },
-    {
-      "createdAt": 1671091751856,
-      "tableId": "3",
-      "products": [
-        {
-          "productId": 1,
-          "quantity": 1,
-          "title": "20oz威靈頓牛排",
-          "price": 3390
-        },
-        {
-          "productId": 9,
-          "quantity": 2,
-          "title": "白酒炒蘑菇",
-          "price": 250
-        }
-      ],
-      "payment": 3890,
-      "paymentTaxIncluded": 4279,
-      "hasAllDelivered": false,
-      "userId": "2",
-      "id": 2
-    }
-  ]
+  "orders": []
 }
