@@ -126,6 +126,30 @@
     },
     {
       "id": 7,
+      "title": "10oz菲力牛排",
+      "category": "主廚精選",
+      "category_e": "Delicate Courses",
+      "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/fillet-steak.png",
+      "price": 1090,
+      "main": "Prime等級菲力牛排、特製牛骨醬、奶油雞肝醬、法式麵包",
+      "description": "菲力牛排嬌嫩且細膩，在嚴格火候下細心烤製，搭配著特製高濃度萃取的牛骨醬汁，太Elegant了!。",
+      "quantity": 1,
+      "userId": 1
+    },
+    {
+      "id": 8,
+      "title": "紅酒燉牛肉",
+      "category": "主廚精選",
+      "category_e": "Delicate Courses",
+      "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/redwine-beef.png",
+      "price": 790,
+      "main": "牛肋條、紅酒、酸優格、法式麵包",
+      "description": "將牛肋與紅酒熬製低火慢燉4小時，盛上桌面再加入酸優格當最後的點綴，吸收飽滿醬汁&醬料的麵包放入嘴巴，畫龍點睛。",
+      "quantity": 1,
+      "userId": 1
+    },
+    {
+      "id": 9,
       "title": "奶油嫩煎干貝",
       "category": "主廚精選",
       "category_e": "Delicate Courses",
@@ -137,7 +161,19 @@
       "userId": 1
     },
     {
-      "id": 8,
+      "id": 10,
+      "title": "德式雙拼",
+      "category": "主廚精選",
+      "category_e": "Delicate Courses",
+      "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/double.png",
+      "price": 390,
+      "main": "煙燻豬腳、綜合香腸、麵包、酸菜酸黃瓜",
+      "description": "怕吃不完德式家庭拼盤?不如選擇我們雙拚淺嚐淺嚐看看?",
+      "quantity": 1,
+      "userId": 1
+    },
+    {
+      "id": 11,
       "title": "奶油雞肝醬",
       "category": "前菜",
       "category_e": "Appetizers",
@@ -149,7 +185,67 @@
       "userId": 1
     },
     {
-      "id": 9,
+      "id": 12,
+      "title": "凱薩沙拉",
+      "category": "前菜",
+      "category_e": "Appetizers",
+      "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/ceaser-salad.png",
+      "price": 280,
+      "main": "蘿蔓、凱薩醬、起司粉、培根碎、麵包丁",
+      "description": "將新鮮蘿蔓與凱薩醬裹入在一起，開啟飢餓的味蕾。",
+      "quantity": 1,
+      "userId": 1
+    },
+    {
+      "id": 13,
+      "title": "招牌沙拉",
+      "category": "前菜",
+      "category_e": "Appetizers",
+      "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/signature-salad.png",
+      "price": 280,
+      "main": "蘿蔓、百香果醬、蘋果丁、葡萄乾",
+      "description": "將新鮮蘿蔓、百香果醬、及水果料裹入一起，酸酸甜甜的滋味難捨不吃。",
+      "quantity": 1,
+      "userId": 1
+    },
+    {
+      "id": 14,
+      "title": "奶油雞肝醬",
+      "category": "前菜",
+      "category_e": "Appetizers",
+      "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/chicken_liver.png",
+      "price": 350,
+      "main": "雞肝醬、果乾、綜莓果醬、軟法麵包、餅乾",
+      "description": "將新鮮雞肝外層炙烤後，與波特酒大火燉出香氣，最後奶油均質出柔順的膏狀。塗抹在軟法麵包&果醬上為絕佳的開胃菜",
+      "quantity": 1,
+      "userId": 1
+    },
+    {
+      "id": 15,
+      "title": "酥炸鮮蝦",
+      "category": "配菜",
+      "category_e": "Side Dishes",
+      "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/shrimp.png",
+      "price": 390,
+      "main": "酥炸生態鮮蝦",
+      "description": "特選的虎蝦在嚴峻海淡水交接處讓蝦肉帶一絲鮮甜。",
+      "quantity": 1,
+      "userId": 1
+    },
+    {
+      "id": 16,
+      "title": "酥炸廣島牡蠣",
+      "category": "配菜",
+      "category_e": "Side Dishes",
+      "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/oyster.png",
+      "price": 390,
+      "main": "酥炸廣島牡蠣",
+      "description": "廣島特選的牡蠣包裹著輕薄的麵衣，咬入後噴發出醇厚濃郁的海味。",
+      "quantity": 1,
+      "userId": 1
+    },
+    {
+      "id": 17,
       "title": "奶油燉菠菜",
       "category": "配菜",
       "category_e": "Side Dishes",
@@ -161,7 +257,7 @@
       "userId": 1
     },
     {
-      "id": 10,
+      "id": 18,
       "title": "白酒炒蘑菇",
       "category": "配菜",
       "category_e": "Side Dishes",
@@ -173,7 +269,7 @@
       "userId": 1
     },
     {
-      "id": 11,
+      "id": 19,
       "title": "巴斯克起司蛋糕",
       "category": "甜點",
       "category_e": "Dessert",
@@ -185,7 +281,7 @@
       "userId": 1
     },
     {
-      "id": 12,
+      "id": 20,
       "title": "提拉米蘇",
       "category": "甜點",
       "category_e": "Dessert",
@@ -197,7 +293,7 @@
       "userId": 1
     },
     {
-      "id": 13,
+      "id": 21,
       "title": "經典可麗露",
       "category": "甜點",
       "category_e": "Dessert",
@@ -209,7 +305,7 @@
       "userId": 1
     },
     {
-      "id": 14,
+      "id": 22,
       "title": "美式咖啡(冰)",
       "category": "飲料及酒",
       "category_e": "Beverages",
@@ -221,7 +317,7 @@
       "userId": 1
     },
     {
-      "id": 15,
+      "id": 23,
       "title": "拿鐵咖啡(熱)",
       "category": "飲料及酒",
       "category_e": "Beverages",
@@ -229,6 +325,30 @@
       "price": 180,
       "main": "哥倫比亞咖啡豆、鮮奶",
       "description": "磨製好的咖啡粉用咖啡機高壓下萃取出濃縮咖啡液下，與細膩奶泡混合，點綴出奶泡花紋，入口溫潤又不帶咖啡苦澀。",
+      "quantity": 1,
+      "userId": 1
+    },
+    {
+      "id": 24,
+      "title": "招牌酸梅汁",
+      "category": "飲料及酒",
+      "category_e": "Beverages",
+      "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/palm-juice.png",
+      "price": 80,
+      "main": "酸梅、中藥材",
+      "description": "餐廳自製熬成的酸梅汁，在山珍海味面前不忘來杯來解膩解膩~",
+      "quantity": 1,
+      "userId": 1
+    },
+    {
+      "id": 25,
+      "title": "西西里水果茶",
+      "category": "飲料及酒",
+      "category_e": "Beverages",
+      "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/Sicilia-fruit-tea.png",
+      "price": 250,
+      "main": "紅茶、西西里果汁、蘋果丁、檸檬片",
+      "description": "在冰涼的紅茶中加入果汁、檸檬&蘋果丁，以酸甜的果香風味讓人喝起來更消暑、更過癮",
       "quantity": 1,
       "userId": 1
     }
