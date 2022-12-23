@@ -210,18 +210,6 @@
     },
     {
       "id": 14,
-      "title": "奶油雞肝醬",
-      "category": "前菜",
-      "category_e": "Appetizers",
-      "img": "https://raw.githubusercontent.com/JonathanHsu0817/pnp-sideproject/main/app/assets/images/chicken_liver.png",
-      "price": 350,
-      "main": "雞肝醬、果乾、綜莓果醬、軟法麵包、餅乾",
-      "description": "將新鮮雞肝外層炙烤後，與波特酒大火燉出香氣，最後奶油均質出柔順的膏狀。塗抹在軟法麵包&果醬上為絕佳的開胃菜",
-      "quantity": 1,
-      "userId": 1
-    },
-    {
-      "id": 15,
       "title": "酥炸鮮蝦",
       "category": "配菜",
       "category_e": "Side Dishes",
@@ -233,7 +221,7 @@
       "userId": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "title": "酥炸廣島牡蠣",
       "category": "配菜",
       "category_e": "Side Dishes",
@@ -245,7 +233,7 @@
       "userId": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "title": "奶油燉菠菜",
       "category": "配菜",
       "category_e": "Side Dishes",
@@ -257,7 +245,7 @@
       "userId": 1
     },
     {
-      "id": 18,
+      "id": 17,
       "title": "白酒炒蘑菇",
       "category": "配菜",
       "category_e": "Side Dishes",
@@ -269,7 +257,7 @@
       "userId": 1
     },
     {
-      "id": 19,
+      "id": 18,
       "title": "巴斯克起司蛋糕",
       "category": "甜點",
       "category_e": "Dessert",
@@ -281,7 +269,7 @@
       "userId": 1
     },
     {
-      "id": 20,
+      "id": 19,
       "title": "提拉米蘇",
       "category": "甜點",
       "category_e": "Dessert",
@@ -293,7 +281,7 @@
       "userId": 1
     },
     {
-      "id": 21,
+      "id": 20,
       "title": "經典可麗露",
       "category": "甜點",
       "category_e": "Dessert",
@@ -305,7 +293,7 @@
       "userId": 1
     },
     {
-      "id": 22,
+      "id": 21,
       "title": "美式咖啡(冰)",
       "category": "飲料及酒",
       "category_e": "Beverages",
@@ -317,7 +305,7 @@
       "userId": 1
     },
     {
-      "id": 23,
+      "id": 22,
       "title": "拿鐵咖啡(熱)",
       "category": "飲料及酒",
       "category_e": "Beverages",
@@ -329,7 +317,7 @@
       "userId": 1
     },
     {
-      "id": 24,
+      "id": 23,
       "title": "招牌酸梅汁",
       "category": "飲料及酒",
       "category_e": "Beverages",
@@ -341,7 +329,7 @@
       "userId": 1
     },
     {
-      "id": 25,
+      "id": 24,
       "title": "西西里水果茶",
       "category": "飲料及酒",
       "category_e": "Beverages",
